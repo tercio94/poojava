@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3de1c96e-6c62-4ceb-8957-6588dea1cca0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Tpo0cO1cGgXHMFje51jdZQ26Ne" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AlunoTest">
+    <configuration name="AlunoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OrientaçãoObjetos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Objetos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Objetos" />
+      <option name="MAIN_CLASS_NAME" value="Objetos.AlunoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlunoTest.deveCriarAlunoPorMeioDoConstrutor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OrientaçãoObjetos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Objetos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Objetos" />
+      <option name="MAIN_CLASS_NAME" value="Objetos.AlunoTest" />
+      <option name="METHOD_NAME" value="deveCriarAlunoPorMeioDoConstrutor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlunoTest.deveJogarExceptionComNomeNulo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OrientaçãoObjetos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Objetos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Objetos" />
+      <option name="MAIN_CLASS_NAME" value="Objetos.AlunoTest" />
+      <option name="METHOD_NAME" value="deveJogarExceptionComNomeNulo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AulaTest.deveAdicionarAlunoNaChamada" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OrientaçãoObjetos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Objetos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Objetos" />
+      <option name="MAIN_CLASS_NAME" value="Objetos.AulaTest" />
+      <option name="METHOD_NAME" value="deveAdicionarAlunoNaChamada" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AulaTest.deveCriarAulaPorMeiodoConstrutor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OrientaçãoObjetos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Objetos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Objetos" />
+      <option name="MAIN_CLASS_NAME" value="Objetos.AulaTest" />
+      <option name="METHOD_NAME" value="deveCriarAulaPorMeiodoConstrutor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AlunoTest" />
+        <item itemvalue="JUnit.AulaTest.deveCriarAulaPorMeiodoConstrutor" />
+        <item itemvalue="JUnit.AulaTest.deveAdicionarAlunoNaChamada" />
+        <item itemvalue="JUnit.AlunoTest.deveCriarAlunoPorMeioDoConstrutor" />
+        <item itemvalue="JUnit.AlunoTest.deveJogarExceptionComNomeNulo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3de1c96e-6c62-4ceb-8957-6588dea1cca0" name="Default Changelist" comment="" />
+      <created>1574166176037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574166176037</updated>
+    </task>
+    <servers />
+  </component>
+</project>
